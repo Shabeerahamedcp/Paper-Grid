@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*comment*/
+
+.comment {
+    width: 100%;
+    height: 38.80px;
+    background-color: rgb(9, 9, 9);
+    color: #ffffff;
+    border:1px solid rgb(41, 39, 39);
+}
+.comment:hover{
+    background-color: rgb(23, 23, 23);
+}
+.announcement{
+  
+    width: 100%;
+    height: 16.25px;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 13.2px;
+
+    margin-left: -10px;
+    letter-spacing: 1px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+/*header*/
+.header{
+    width: 100%;
+    height: 90px;
+    background-color: rgb(0, 0, 0);
+}
+.leftheader{
+    float: left;
+    width: 50%;
+    height: 91px;
+}
+.papergridimg{
+    width: 120px;
+    height:26px;
+    margin-top: 32px;
+    margin-left: 55px;
+    
+}
+.headermenu{
+    width: 400px;
+    height: 19.1px;
+    margin-top: -28px;
+    margin-left: 218px;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    letter-spacing: 0.3px;
+    background-color: rgb(0, 0, 0);
+}
+.headermenusingle{
+    color: #ffffff;
+    text-decoration: none;
+}
+.headermenusingles2{
+    color: #ffffffbf;
+    text-decoration: none;
+    margin-left: 22px;
+}
+
+.rightheader{
+    float: right;
+    width: 50%;
+    height: 91px;
+}
+.rightheadericon{
+    width: 70px;
+    height: 30px;
+    margin: 35px 438px;
+}
+
+
+/*body*/
+.section1{
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.section1 img{
+
+    width: 298.12px;
+    height: 298.12px;
+    margin: 8px 0 0 41px;
+    
+}
+
+.founder img{
+    width: 359.81px;
+    height: 548px;
+    padding-top: 70px;
+    margin-left: 55px;
+}
+.foundertext{
+    margin-left: 246.5px;
+    margin-top: -419.5px;
+    font-size: 23.5px;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    letter-spacing: 1px;
+}
+.founderdetails {
+    margin-left: 246.5px;
+    margin-top: 26px;
+    font-size: 19.5px;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #646262;
+    letter-spacing: 1px;
+}
+.button{
+    width: 140.59px;
+    height: 49.5px;
+    background-color: black;
+    color: #ffffff;
+    margin-top: 39px;
+    margin-left: 493px;
+    font-size: 17px;
+}
+
+
+
+/* footer */
+.footer {
+    text-align: center;
+    padding: 60px 20px 20px 20px;
+    background-color: #121010;
+    margin-top: 327px;
+}
+
+.footer h2 {
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+.contact-info a {
+    display: block;
+    color: #bfbfbf;
+    text-decoration: underline;
+    margin: 15px 0;
+    font-size: 18px;
+}
+
+.instagram {
+    margin-top: 30px;
+    font-size: 24px;
+}
+
+.bottom-links {
+    border-top: 1px solid #333;
+    margin-top: 60px;
+    padding-top: 51px;
+    font-size: 14px;
+    color: #aaa;
+}
+
+.bottom-links a {
+    color: #aaa;
+    text-decoration: none;
+    margin: 0 8px;
+}
+
+.bottom-links a:hover {
+    text-decoration: underline;
+}
+
+
